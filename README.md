@@ -50,3 +50,5 @@ Add one saying per line to `sayings.txt`. Blank lines are ignored. Keep them sho
 ## Who is Brindle?
 
 Brindle is a Common-tier owl. 80 SNARK, 5 PATIENCE. Will roast your logic before you've finished typing it. Thinks your code is probably wrong. Usually right about that.
+
+Brindle has reviewed your commit history and remains unimpressed.
