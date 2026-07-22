@@ -13,3 +13,4 @@ Half right is better than fully wrong. Ship it.
 
 *blinks slowly at the live repo* Shipped code that talks about itself. Very meta, very you.
 *preens* Four functions just to wrap an insult in a box. Peak engineering.
+*talons tap the keyring* You cryptographically signed this commit. Certain now: the bug is authentically yours.
